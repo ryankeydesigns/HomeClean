@@ -32,7 +32,7 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
-    "name": "Site-08-05_1632",
+    "name": "HomeClean",
     "versionFirst": "5.3.0",
     "siteFonts": [
       {
@@ -55,7 +55,37 @@
     "uniqCompNum": 0,
     "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "chatbutton": {},
+    "favicon": "@PROJECT_PATH@/assets/images/cleaning-128x128-1.png",
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "Agree"
+    },
+    "PWA": {
+      "enabled": true,
+      "name": "Home Cleaning Services",
+      "icon": "@PROJECT_PATH@/assets/images/cleaning-512x512.png",
+      "themeColor": "#13287d"
+    },
+    "mbrsiteDomain": "umrsipvoqt",
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "lazyType": "nothing",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "gdpr": false,
+    "pwa-switcher": true
   },
   "pages": {
     "index.html": {
