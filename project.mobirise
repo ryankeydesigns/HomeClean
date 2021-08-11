@@ -53,11 +53,11 @@
     ],
     "imageResize": true,
     "uniqCompNum": 0,
-    "versionPublish": "5.3.0",
+    "versionPublish": "5.3.15",
     "screenshot": "screenshot.png",
     "publishChangesOnly": false,
     "chatbutton": {},
-    "favicon": "@PROJECT_PATH@/assets/images/cleaning-128x128-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/cleaning-128x128_1.png",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
